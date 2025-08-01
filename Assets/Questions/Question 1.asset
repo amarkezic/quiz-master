@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: "What is the name of the megacity where Cyberpunk 2077 takes place?\r"
+  answers:
+  - 'Neo Tokyo '
+  - Night City
+  - 'Crystal Heights '
+  - 'Cyber Haven '
+  correctAnswerIndex: 1

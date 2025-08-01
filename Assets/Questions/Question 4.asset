@@ -10,7 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ee4414f030d4fcd4f94e4addec121904, type: 3}
-  m_Name: Question 2
+  m_Name: Question 4
   m_EditorClassIdentifier: 
-  question: "Who is the rockstar and rebel whose digital ghost shares your mind throughout
-    the game?\r"
+  question: " Which character is a skilled netrunner and member of the Mox gang?\r"
+  answers:
+  - 'Panam Palmer '
+  - 'Judy Alvarez '
+  - Rogue Amendiares
+  - 'Evelyn Parker '
+  correctAnswerIndex: 1

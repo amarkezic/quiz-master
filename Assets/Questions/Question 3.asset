@@ -14,3 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: "What corporation originally developed the biochip central to Cyberpunk
     2077\u2019s storyline?\r"
+  answers:
+  - 'Arasaka '
+  - Militech
+  - 'Biotechnica '
+  - Kang Tao
+  correctAnswerIndex: 0
